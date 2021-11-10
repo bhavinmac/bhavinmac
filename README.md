@@ -22,7 +22,6 @@ Love to discuss about business opportunities.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... <b>Map based platoform</b>
-- 🌱 I’m currently learning ... 
 - 👯 I’m looking to collaborate on ... <b> Mobile app and website development</b>
 - 💬 Ask me about ... <b>Mobile app development</b>
 - 📫 How to reach me: ... <a href="https://twitter.com/bhavinmac"> Twitter </a>
