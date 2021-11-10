@@ -18,20 +18,17 @@ Love to discuss about business opportunities.
 </a></p>
 
 
-👇🏻 If you like what I do, support me by buying me a [coffee](https://www.buymeacoffee.com/bhavinmac) and add to my knowledge! 
-
-<a href="https://www.buymeacoffee.com/bhavinmac" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Book" width="120" ></a>
-
-
-**bhavinmac/bhavinmac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... <b>Map based platoform</b>
 - 🌱 I’m currently learning ... 
 - 👯 I’m looking to collaborate on ... <b> Mobile app and website development</b>
-- 💬 Ask me about ... Mobile app development
+- 💬 Ask me about ... <b>Mobile app development</b>
 - 📫 How to reach me: ... <a href="https://twitter.com/bhavinmac"> Twitter </a>
-
 - ⚡ Fun fact: ... <b>You're Awesome!</b>
+
+👇🏻 If you like what I do, support me by buying me a [coffee](https://www.buymeacoffee.com/bhavinmac) and add to my knowledge! 
+
+<a href="https://www.buymeacoffee.com/bhavinmac" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Book" width="120" ></a>
 
