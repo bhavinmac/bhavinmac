@@ -6,11 +6,16 @@
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=bhavinmac&left_color=gray&right_color=blue)
 [![Medium Badge](https://img.shields.io/badge/-@bhavinmac-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@bhavinmac)](https://medium.com/@bhavinmac)
   
-I am software developer, debuging and problem solving is my key skill.
+I am software developer, debuging and problem solving is my key skill.<br>
 Love to discuss about business opportunities.
 
 
 [![Bhavin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhavinmac&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/bhavinmac/github-readme-stats)
+
+
+<p><br><a href="#">
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=daxoron&theme=dark" />
+</a></p>
 
 
 👇🏻 If you like what I do, support me by buying me a [coffee](https://www.buymeacoffee.com/bhavinmac) and add to my knowledge! 
@@ -18,17 +23,15 @@ Love to discuss about business opportunities.
 <a href="https://www.buymeacoffee.com/bhavinmac" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Book" width="120" ></a>
 
 
-<!--
 **bhavinmac/bhavinmac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on ... <b>Map based platoform</b>
+- 🌱 I’m currently learning ... 
+- 👯 I’m looking to collaborate on ... <b> Mobile app and website development</b>
+- 💬 Ask me about ... Mobile app development
+- 📫 How to reach me: ... <a href="https://twitter.com/bhavinmac"> Twitter </a>
+
+- ⚡ Fun fact: ... <b>You're Awesome!</b>
+
